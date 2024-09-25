@@ -4,10 +4,10 @@ This repo contains a web page for the paper:
 
 ```bibtex
 @inproceedings{
-    author = {Ding, Junsheng and Zhang, Haifan and Li, Weihang and Zhou, Liangwei and Perzylo, Alexander},
-    title = {Knowledge-based Programming by Demonstration using semantic action models for industrial assembly},
-    booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    author = {Ding, Junsheng and Fu, Xiangyu and Wei, Tiantian and Perzylo, Alexander},
+    title = {A Cost-Efficient FOC-controlled Haptic Knob for Industrial Robot Programming with Force Feedback},
+    booktitle = {IEEE International Conference on Industrial Informatics (INDIN)},
     year = {2024},
-    month = oct,
-    address = {Abu Dhabi, UAE},
+    month = Aug,
+    address = {Beijing, China},
 }
